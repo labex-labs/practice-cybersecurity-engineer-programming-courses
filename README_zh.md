@@ -1,0 +1,56 @@
+# Practice 网络安全工程师 编程课程
+
+## 支持语言
+
+🇨🇳 [简体中文](README_zh.md) 🇺🇸 [English](README.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/path/JBAIFHadyCkk.png">
+</div>
+
+这是 LabEx 的实验性网络安全工程师技能树，从零到初级网络安全工程师。通过动手实验和真实场景，学习安全基础、渗透测试、道德黑客和数字取证。
+
+|   序号 | 名称                                                                                             | 难度   | Repo                                                                                 | 练习                                                                                 |
+|------|------------------------------------------------------------------------------------------------|------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+|   01 | [Linux 终端基础](https://labex.io/zh/courses/linux-terminal-basics)                                | 初级   | [🔗 Repo](https://github.com/labex-labs/linux-terminal-basics)                        | [🚀 开始实验](https://labex.io/zh/courses/linux-terminal-basics)                        |
+|   02 | [文件系统导航与文件操作](https://labex.io/zh/courses/file-system-navigation-and-file-operations)          | 初级   | [🔗 Repo](https://github.com/labex-labs/file-system-navigation-and-file-operations)   | [🚀 开始实验](https://labex.io/zh/courses/file-system-navigation-and-file-operations)   |
+|   03 | [查看、搜索和编辑文件](https://labex.io/zh/courses/viewing-searching-and-editing-files)                  | 初级   | [🔗 Repo](https://github.com/labex-labs/viewing-searching-and-editing-files)          | [🚀 开始实验](https://labex.io/zh/courses/viewing-searching-and-editing-files)          |
+|   04 | [Shell 重定向与管道](https://labex.io/zh/courses/shell-redirection-and-pipelines)                    | 初级   | [🔗 Repo](https://github.com/labex-labs/shell-redirection-and-pipelines)              | [🚀 开始实验](https://labex.io/zh/courses/shell-redirection-and-pipelines)              |
+|   05 | [Shell 环境与变量](https://labex.io/zh/courses/shell-environment-and-variables)                     | 初级   | [🔗 Repo](https://github.com/labex-labs/shell-environment-and-variables)              | [🚀 开始实验](https://labex.io/zh/courses/shell-environment-and-variables)              |
+|   06 | [用户、组和权限](https://labex.io/zh/courses/users-groups-and-permissions)                            | 初级   | [🔗 Repo](https://github.com/labex-labs/users-groups-and-permissions)                 | [🚀 开始实验](https://labex.io/zh/courses/users-groups-and-permissions)                 |
+|   07 | [进程与作业控制](https://labex.io/zh/courses/processes-and-job-control)                               | 初级   | [🔗 Repo](https://github.com/labex-labs/processes-and-job-control)                    | [🚀 开始实验](https://labex.io/zh/courses/processes-and-job-control)                    |
+|   08 | [系统信息与资源监控](https://labex.io/zh/courses/system-information-and-resource-monitoring)            | 初级   | [🔗 Repo](https://github.com/labex-labs/system-information-and-resource-monitoring)   | [🚀 开始实验](https://labex.io/zh/courses/system-information-and-resource-monitoring)   |
+|   09 | [磁盘文件系统与存储管理](https://labex.io/zh/courses/disk-filesystems-and-storage-management)             | 初级   | [🔗 Repo](https://github.com/labex-labs/disk-filesystems-and-storage-management)      | [🚀 开始实验](https://labex.io/zh/courses/disk-filesystems-and-storage-management)      |
+|   10 | [Linux 网络基础](https://labex.io/zh/courses/linux-networking-fundamentals)                        | 初级   | [🔗 Repo](https://github.com/labex-labs/linux-networking-fundamentals)                | [🚀 开始实验](https://labex.io/zh/courses/linux-networking-fundamentals)                |
+|   11 | [远程访问与安全文件传输](https://labex.io/zh/courses/remote-access-and-secure-file-transfer)              | 初级   | [🔗 Repo](https://github.com/labex-labs/remote-access-and-secure-file-transfer)       | [🚀 开始实验](https://labex.io/zh/courses/remote-access-and-secure-file-transfer)       |
+|   12 | [软件包管理](https://labex.io/zh/courses/software-package-management)                               | 初级   | [🔗 Repo](https://github.com/labex-labs/software-package-management)                  | [🚀 开始实验](https://labex.io/zh/courses/software-package-management)                  |
+|   13 | [使用 tcpdump 进行数据包分析](https://labex.io/zh/courses/packet-analysis-with-tcpdump)                 | 中级   | [🔗 Repo](https://github.com/labex-labs/packet-analysis-with-tcpdump)                 | [🚀 开始实验](https://labex.io/zh/courses/packet-analysis-with-tcpdump)                 |
+|   14 | [使用 Tshark 进行协议分析](https://labex.io/zh/courses/protocol-analysis-with-tshark)                  | 中级   | [🔗 Repo](https://github.com/labex-labs/protocol-analysis-with-tshark)                | [🚀 开始实验](https://labex.io/zh/courses/protocol-analysis-with-tshark)                |
+|   15 | [基于主机的安全与审计](https://labex.io/zh/courses/host-based-security-auditing)                         | 中级   | [🔗 Repo](https://github.com/labex-labs/host-based-security-auditing)                 | [🚀 开始实验](https://labex.io/zh/courses/host-based-security-auditing)                 |
+|   16 | [使用 Snort 进行网络入侵检测](https://labex.io/zh/courses/network-intrusion-detection-with-snort)        | 中级   | [🔗 Repo](https://github.com/labex-labs/network-intrusion-detection-with-snort)       | [🚀 开始实验](https://labex.io/zh/courses/network-intrusion-detection-with-snort)       |
+|   17 | [开源情报 (OSINT) 与被动侦察](https://labex.io/zh/courses/open-source-intelligence-osint-passive-recon) | 中级   | [🔗 Repo](https://github.com/labex-labs/open-source-intelligence-osint-passive-recon) | [🚀 开始实验](https://labex.io/zh/courses/open-source-intelligence-osint-passive-recon) |
+|   18 | [Nmap 主机发现与端口扫描](https://labex.io/zh/courses/mastering-nmap-host-discovery-port-scanning)      | 中级   | [🔗 Repo](https://github.com/labex-labs/mastering-nmap-host-discovery-port-scanning)  | [🚀 开始实验](https://labex.io/zh/courses/mastering-nmap-host-discovery-port-scanning)  |
+|   19 | [Nmap 指纹识别与脚本引擎](https://labex.io/zh/courses/nmap-fingerprinting-the-scripting-engine)         | 中级   | [🔗 Repo](https://github.com/labex-labs/nmap-fingerprinting-the-scripting-engine)     | [🚀 开始实验](https://labex.io/zh/courses/nmap-fingerprinting-the-scripting-engine)     |
+|   20 | [漏洞评估与管理](https://labex.io/zh/courses/vulnerability-assessment-management)                     | 中级   | [🔗 Repo](https://github.com/labex-labs/vulnerability-assessment-management)          | [🚀 开始实验](https://labex.io/zh/courses/vulnerability-assessment-management)          |
+|   21 | [Web 信息收集与拦截代理](https://labex.io/zh/courses/web-recon-intercepting-proxies)                    | 中级   | [🔗 Repo](https://github.com/labex-labs/web-recon-intercepting-proxies)               | [🚀 开始实验](https://labex.io/zh/courses/web-recon-intercepting-proxies)               |
+|   22 | [注入漏洞](https://labex.io/zh/courses/injection-vulnerabilities)                                  | 中级   | [🔗 Repo](https://github.com/labex-labs/injection-vulnerabilities)                    | [🚀 开始实验](https://labex.io/zh/courses/injection-vulnerabilities)                    |
+|   23 | [客户端攻击与身份验证](https://labex.io/zh/courses/client-side-attacks-authentication)                   | 中级   | [🔗 Repo](https://github.com/labex-labs/client-side-attacks-authentication)           | [🚀 开始实验](https://labex.io/zh/courses/client-side-attacks-authentication)           |
+|   24 | [服务端 Web 攻击](https://labex.io/zh/courses/server-side-web-attacks)                              | 中级   | [🔗 Repo](https://github.com/labex-labs/server-side-web-attacks)                      | [🚀 开始实验](https://labex.io/zh/courses/server-side-web-attacks)                      |
+|   25 | [Metasploit 框架基础](https://labex.io/zh/courses/metasploit-framework-fundamentals)               | 中级   | [🔗 Repo](https://github.com/labex-labs/metasploit-framework-fundamentals)            | [🚀 开始实验](https://labex.io/zh/courses/metasploit-framework-fundamentals)            |
+|   26 | [Meterpreter 与后渗透操作](https://labex.io/zh/courses/meterpreter-post-exploitation-operations)     | 中级   | [🔗 Repo](https://github.com/labex-labs/meterpreter-post-exploitation-operations)     | [🚀 开始实验](https://labex.io/zh/courses/meterpreter-post-exploitation-operations)     |
+|   27 | [横向移动与枢轴攻击](https://labex.io/zh/courses/lateral-movement-pivoting)                             | 中级   | [🔗 Repo](https://github.com/labex-labs/lateral-movement-pivoting)                    | [🚀 开始实验](https://labex.io/zh/courses/lateral-movement-pivoting)                    |
+|   28 | [Linux 提权](https://labex.io/zh/courses/linux-privilege-escalation)                             | 中级   | [🔗 Repo](https://github.com/labex-labs/linux-privilege-escalation)                   | [🚀 开始实验](https://labex.io/zh/courses/linux-privilege-escalation)                   |
+|   29 | [密码学基础](https://labex.io/zh/courses/cryptography-essentials)                                   | 中级   | [🔗 Repo](https://github.com/labex-labs/cryptography-essentials)                      | [🚀 开始实验](https://labex.io/zh/courses/cryptography-essentials)                      |
+|   30 | [离线密码破解](https://labex.io/zh/courses/offline-password-cracking)                                | 中级   | [🔗 Repo](https://github.com/labex-labs/offline-password-cracking)                    | [🚀 开始实验](https://labex.io/zh/courses/offline-password-cracking)                    |
+|   31 | [数字取证基础](https://labex.io/zh/courses/digital-forensics-basics)                                 | 中级   | [🔗 Repo](https://github.com/labex-labs/digital-forensics-basics)                     | [🚀 开始实验](https://labex.io/zh/courses/digital-forensics-basics)                     |
+|   32 | [内存取证基础](https://labex.io/zh/courses/memory-forensics-basics)                                  | 中级   | [🔗 Repo](https://github.com/labex-labs/memory-forensics-basics)                      | [🚀 开始实验](https://labex.io/zh/courses/memory-forensics-basics)                      |
+|   33 | [恶意软件分析基础](https://labex.io/zh/courses/malware-analysis-basics)                                | 中级   | [🔗 Repo](https://github.com/labex-labs/malware-analysis-basics)                      | [🚀 开始实验](https://labex.io/zh/courses/malware-analysis-basics)                      |
+|   34 | [Python 安全运维实战](https://labex.io/zh/courses/python-for-security-operations)                    | 中级   | [🔗 Repo](https://github.com/labex-labs/python-for-security-operations)               | [🚀 开始实验](https://labex.io/zh/courses/python-for-security-operations)               |
+|   35 | [构建自定义安全工具](https://labex.io/zh/courses/building-custom-security-tools)                        | 中级   | [🔗 Repo](https://github.com/labex-labs/building-custom-security-tools)               | [🚀 开始实验](https://labex.io/zh/courses/building-custom-security-tools)               |
+
+## 更多
+
+- 🔗 [网络安全工程师 免费教程](https://github.com/labex-labs/cybersecurity-engineer-free-tutorials)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
+
